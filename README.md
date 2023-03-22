@@ -7,4 +7,5 @@ Checks your build and marks up banned and allowed perks (Currently Survivor Perk
 + Checks banned combinations of perks 
 + Get latest balance updates by pressing a button
 
+[Website](https://americantournamentperkschecker.wordpress.com/)
 [Download](https://github.com/Souly1u/AmericanTournament-PerksChecker/releases/tag/Tool)
