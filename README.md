@@ -12,5 +12,5 @@ Checks your build and marks up banned and allowed perks (Currently Survivor Perk
 
 
 
-### [🔽 Download](https://github.com/Souly1u/AmericanTournament-PerksChecker/releases/tag/Tool)
+### [🔽 Download](https://github.com/Souly1u/AmericanTournament-PerksChecker/releases/download/v1.2.2/DBD-PerksChecker.rar)
 
